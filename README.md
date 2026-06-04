@@ -64,6 +64,8 @@ are not interactive
 
 This project avoids that by focusing on analysis + usability
 
+<img width="758" height="286" alt="image" src="https://github.com/user-attachments/assets/bfac6114-eb92-4a69-8b86-9f245332c37f" />
+
 👨‍💻 Author
 
 Your Name : Aayush Kesarwani
